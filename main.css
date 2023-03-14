@@ -1,3 +1,5 @@
 body{
-    background: #ddff77;
+    /* background: #ddff77; */
+    /* background: rgb(255, 0, 0); */
+    background: rgba(255,255,255);
 }
